@@ -1,0 +1,16 @@
+# Maven
+target/
+*.log
+.mvn/
+mvnw
+mvnw.cmd
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# Outros
+.DS_Store
